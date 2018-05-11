@@ -1,6 +1,8 @@
 
 # 购购购
 
-<input></input>
+<center><input id="query /><input type="GO!" onclick="test();"></center>
+
+
 
 
